@@ -1,0 +1,22 @@
+Visual Studio Code
+	IDE
+	
+Open Source Software
+
+a b c MyName
+
+90 1.20 "Apple" 'apple' (String)
+
+a = 5
+b = 10
+c = a + b
+
+C C++ Java DotNet RUST
+
+
+> ==> Greater Than
+< ==> Less than
+== Equal to
+!= Not Equal to
+
+['Ganesh', 'Ramkumar', 'Babu', 'MSK'] ===> Array
