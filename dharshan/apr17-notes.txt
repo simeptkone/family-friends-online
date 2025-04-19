@@ -1,0 +1,29 @@
+input
+	int()
+if():
+else:
+	if xx :
+		......
+		.......
+	else:
+		.....
+		....
+
+if():
+elif():
+elif():
+
+from collections import counter
+
+s1.upper(), s1.lower(), s1.split(), s2.count(), count vs len, 
+# s4 = Counter(s1)
+# s4 = Counter(sorted(s1))
+s4 = Counter(sorted(s1.upper()))
+
+for loop
+	for i in range(1,11):
+
+
+
+Module
+	Number of function
