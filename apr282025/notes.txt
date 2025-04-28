@@ -1,0 +1,7 @@
+or and
+
+a or b ==>
+
+	1	0	Conidtion
+0	1	0	OR
+1	1   0   AND
