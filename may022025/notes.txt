@@ -1,0 +1,18 @@
+List, Tuple
+
+insert(index,str)
+append(str)
+remove(str)
+pop(index)
+del list[start:end:step]
+
+0       1       2
+apple   cherry  banana
+
+Aggregate
+    sum
+    min
+    max
+    count
+    avg
+    
